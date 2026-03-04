@@ -1,5 +1,17 @@
 # 📊 Análise de Desempenho das Lojas do Senhor João
 
+---
+
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Viz-brightgreen)
+![Colab](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+</div>
+
+---
+
 ## 📌 Descrição do Projeto
 
 Este projeto tem como objetivo analisar o desempenho de quatro lojas pertencentes ao Senhor João, utilizando dados de vendas para identificar qual unidade apresenta menor viabilidade estratégica e deve ser vendida.
@@ -32,7 +44,7 @@ Cada indicador foi analisado individualmente e depois comparado de forma estrat�
 
 ## 🛠️ Tecnologias Utilizadas
 
-* Python 3
+* Python
 * Pandas
 * Matplotlib
 * Google Colab
