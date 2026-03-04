@@ -5,8 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Viz-brightgreen)
-![Colab](https://img.shields.io/badge/Jupyter-Notebook-orange)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 </div>
 
