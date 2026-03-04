@@ -111,8 +111,7 @@ Venda da Loja 4 para otimização do portfólio e maximização de resultados.
 
 ```
 📂 analise-lojas
- ├── dados.csv
- ├── analise_lojas.ipynb
+ ├── AluraStoreBrasil.ipynb
  ├── README.md
 ```
 
